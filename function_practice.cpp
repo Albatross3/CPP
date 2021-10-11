@@ -14,7 +14,7 @@ int main()
 	do {
 		cout << "Give me your height in inches, weight in pounds, and age in years" << endl;
 		cout << "and I will give you your hat size, jacket size(inches at chest)" << endl;
-		cout << "and yout waist size in inches.\n";
+		cout << "and yout waist size in inches."<<endl;
 		cin >> height >> weight >> age;
 		cout << "hat size = " << hat_size(height, weight)<<endl;
 		cout << "jacket size = " << jacket_size(height, weight,age)<<endl;
