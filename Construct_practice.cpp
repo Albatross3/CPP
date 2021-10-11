@@ -48,7 +48,7 @@ int main()
 	cout << "Stand " << s2.getID() << " sold " << s2.getNumSold() << endl;
 	cout << "Stand " << s3.getID() << " sold " << s3.getNumSold() << endl;
 	cout << "Stand " << s4.getID() << " sold " << s4.getNumSold() << endl;
-	cout << "Total sold = " << HotDogStand::getTotalSold();
+	cout << "Total sold = " << HotDogStand::getTotalSold()<<endl;
 	cout << endl;
 	
 }
