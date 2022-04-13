@@ -1,3 +1,2 @@
-﻿  template.cpp
-C:\C++\CPP\DataStructure\Basic\Basic\template.cpp(29,42): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  Basic.vcxproj -> C:\C++\CPP\DataStructure\Basic\x64\Debug\Basic.exe
+﻿  basic.cpp
+  Basic.vcxproj -> C:\CPP\DataStructure\Basic\x64\Debug\Basic.exe
